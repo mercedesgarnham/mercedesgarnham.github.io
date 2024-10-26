@@ -46,15 +46,15 @@ skills:
         percent: 100
         icon: python
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 70
-        icon: chart-line
-        icon_pack: fas
       - name: SQL
         description: ''
         percent: 90
         icon: database
+        icon_pack: fas
+      - name: Data Science
+        description: ''
+        percent: 70
+        icon: chart-line
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -65,15 +65,15 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
       - name: Field Hockey
         description: ''
         percent: 80
         icon: hockey-stick
+        icon_pack: fas
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
         icon_pack: fas
 
 # Social/Academic Networking
