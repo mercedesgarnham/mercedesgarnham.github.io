@@ -49,8 +49,8 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: content/event/example/Pyday Hurlingham.pdf
-{{% staticref "content/event/example/Pyday Hurlingham.pdf" "newtab" %}}Slides{{% /staticref %}}
+slides: ""
+  - [Ejemplo](http://tiny.cc/Python_en_bioinformatica)
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
