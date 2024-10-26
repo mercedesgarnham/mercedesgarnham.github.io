@@ -1,6 +1,6 @@
 ---
 title: Divulgación de la Bioinformática
-summary: En esta sección encotrarás las actividades relacionadas a la divulgación de la bioinformática
+summary: En esta sección encontrarás las actividades relacionadas a la divulgación de la bioinformática
 tags:
   - Bioinformática
 date: '2024-10-21T00:00:00Z'
