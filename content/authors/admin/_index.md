@@ -73,7 +73,7 @@ skills:
       - name: Field Hockey
         description: ''
         percent: 80
-        icon: field-hockey
+        icon: fa-field-hockey
         icon_pack: fas
 
 # Social/Academic Networking
@@ -98,7 +98,7 @@ social:
     link: https://github.com/mercedesgarnham
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/mercedes-didier-garnham/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
