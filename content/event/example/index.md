@@ -1,19 +1,19 @@
 ---
 title: Dando Vida a los Datos - Python en Bioinformática
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: PyDay Hurlingham 2024
+event_url: https://eventos.python.org.ar/events/pyday-hurlingham-2024/
 
-location: Hugo Blox Builder HQ
+location: Universidad Nacional de Hurlingham
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Origone 151
+  city: Hurlingham
+  region: Buenos Aires
+  postcode: '1686'
+  country: Argentina
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: En esta charla exploraremos cómo Python se ha vuelto esencial en bioinformática.
+abstract: 'En esta breve pero intensa charla, vamos a explorar cómo Python se ha convertido en una herramienta fundamental en el campo de la bioinformática. A lo largo de 25 minutos, te mostraré cómo este lenguaje de programación, con su sintaxis clara y poderosas librerías, puede facilitar el análisis de datos biológicos. Desde la manipulación de secuencias genéticas hasta la visualización de datos complejos, veremos ejemplos prácticos que ilustran cómo Python puede optimizar tu trabajo en biología. Aprenderás sobre librerías clave como Biopython, Pandas y Matplotlib, y cómo pueden ayudarte a transformar datos en información valiosa. Si sos un curioso del mundo biológico o un científico que busca incorporar programación en su práctica, ¡esta charla es para vos! No te la pierdas y descubrí todo lo que Python puede hacer por la bioinformática.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
