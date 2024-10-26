@@ -13,7 +13,7 @@ address:
   country: Argentina
 
 summary: En esta charla exploraremos cómo Python se ha vuelto esencial en bioinformática.
-abstract: 'En esta breve pero intensa charla, vamos a explorar cómo Python se ha convertido en una herramienta fundamental en el campo de la bioinformática. A lo largo de 25 minutos, te mostraré cómo este lenguaje de programación, con su sintaxis clara y poderosas librerías, puede facilitar el análisis de datos biológicos. Desde la manipulación de secuencias genéticas hasta la visualización de datos complejos, veremos ejemplos prácticos que ilustran cómo Python puede optimizar tu trabajo en biología. Aprenderás sobre librerías clave como Biopython, Pandas y Matplotlib, y cómo pueden ayudarte a transformar datos en información valiosa. Si sos un curioso del mundo biológico o un científico que busca incorporar programación en su práctica, ¡esta charla es para vos! No te la pierdas y descubrí todo lo que Python puede hacer por la bioinformática.'
+abstract: 'En esta breve pero intensa charla, vamos a explorar cómo Python se ha convertido en una herramienta fundamental en el campo de la bioinformática. A lo largo de 25 minutos, te mostraré cómo este lenguaje de programación, con su sintaxis clara y poderosas librerías, puede facilitar el análisis de datos biológicos. Desde la manipulación de secuencias genéticas hasta la visualización de datos complejos, veremos ejemplos prácticos que ilustran cómo Python puede optimizar tu trabajo en biología. Si sos un curioso del mundo biológico o un científico que busca incorporar programación en su práctica, ¡esta charla es para vos! No te la pierdas y descubrí todo lo que Python puede hacer por la bioinformática.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -49,7 +49,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: pyday_2024s
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
