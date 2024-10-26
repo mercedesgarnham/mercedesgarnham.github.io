@@ -50,7 +50,6 @@ url_video: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-  - [Ejemplo](http://tiny.cc/Python_en_bioinformatica)
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -58,5 +57,5 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - [Ejemplo](http://tiny.cc/Ejemplo_Quimioinformatica)
+  - projects = []
 ---
