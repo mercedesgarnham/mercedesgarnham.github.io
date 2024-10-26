@@ -41,7 +41,7 @@ links:
     url: https://twitter.com/pydayhurlingham
 url_code: ''
 url_pdf: ''
-url_slides: 'https://drive.google.com/file/d/13N3f72GC7HWARrXwyjouRDV1KZIEGYDN/view?usp=drive_link'
+url_slides: ''
 url_video: ''
 
 # Markdown Slides (optional).
