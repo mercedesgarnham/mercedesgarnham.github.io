@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Dando Vida a los Datos - Python en Bioinformática
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
