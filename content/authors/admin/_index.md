@@ -73,7 +73,7 @@ skills:
       - name: Field Hockey
         description: ''
         percent: 80
-        icon: fa-field-hockey
+        icon: hockey-stick
         icon_pack: fas
 
 # Social/Academic Networking
