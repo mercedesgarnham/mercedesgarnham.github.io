@@ -30,12 +30,31 @@ url_video: ''
 slides: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Desde 2018, he estado involucrada en la promoción de la bioinformática en Argentina y
+América Latina, desempeñando un papel activo en tres comunidades científicas:
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+El RSG Argentina es el Grupo Regional de Estudiantes en Bioinformática en Argentina
+(RSG Argentina - https://rsg-argentina.netlify.app/), un grupo académico sin fines de lucro
+que depende de la Sociedad Internacional de Biología Computacional (ISCB) fundado en
+2010, con el objetivo de apoyar a estudiantes de grado y posgrado en bioinformática y
+biología computacional para potenciar su desarrollo académico. Comencé a colaborar
+como voluntaria en el RSG Argentina en 2018, desde ese momento pasé por varios roles
+tales como encargada de redes sociales, secretaria, vicepresidenta y actualmente soy
+presidenta. Durante estos 6 años, he participado en la organización de 5 simposios y
+otras actividades de divulgación.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+La comunidad Women in Bioinformatics and Data Science LA (WBDS-LA -
+https://wbds.la/index.htm) trabaja en visibilizar la investigación realizada por mujeres en
+bioinformática y ciencia de datos en América Latina. Este grupo promueve la creación de
+redes y la colaboración entre científicas del sector público y privado en América Latina.
+En esta comunidad participé entre 2020 y 2022 con roles desde voluntaria, organización
+de talleres de formación, supervisando el trabajo de voluntarios y como coordinadora
+general.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Además, he sido parte del Simposio de Estudiantes Hispanohablantes de Bioinformática y
+Biología Computacional (SEH2Bioinfo - https://seh2bioinfo.netlify.app/) que se llevó a
+cabo en 2022, con el objetivo de generar un simposio internacional en español para
+eliminar las barreras lingüísticas en la comunicación científica. Este evento, que reunió a
+grupos regionales de habla hispana, facilitó la inclusión y el acceso a la investigación,
+promoviendo un espacio donde los estudiantes y investigadores pueden compartir sus
+trabajos en un entorno accesible y diverso. 
