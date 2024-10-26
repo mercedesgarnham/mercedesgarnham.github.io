@@ -17,12 +17,12 @@ abstract: 'En esta breve pero intensa charla, vamos a explorar cómo Python se h
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-10-26T12:00:00Z'
+date_end: '2024-10-26T12:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-10-21T00:00:00Z'
 
 authors: []
 tags: []
